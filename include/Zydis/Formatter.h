@@ -35,7 +35,7 @@
 #include <Zydis/DecoderTypes.h>
 #include <Zydis/Defines.h>
 #include <Zydis/Status.h>
-#include <Zydis/String.h>
+#include <Zydis/zyString.h>
 
 #ifdef __cplusplus
 extern "C" {
